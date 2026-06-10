@@ -1,0 +1,2 @@
+# peopleCounter
+Scrimba netlify project
